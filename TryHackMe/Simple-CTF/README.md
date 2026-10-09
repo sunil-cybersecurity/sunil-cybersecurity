@@ -147,4 +147,56 @@ GTFOBins was consulted to understand the security implications of allowing Vim t
 
 ## 🛡️ Security Recommendations
 
-1. **Secure FTP:** Disabl
+1. **Secure FTP:** Disable anonymous access when it is not required.
+2. **Protect Sensitive Information:** Avoid storing credentials or sensitive hints in accessible directories.
+3. **Strengthen Authentication:** Enforce unique passwords and multi-factor authentication where available.
+4. **Apply Least Privilege:** Give users only the permissions required for their responsibilities.
+5. **Audit Sudo Rules:** Review passwordless permissions and privileged executable access.
+6. **Monitor Systems:** Track authentication failures and suspicious administrative activity.
+7. **Maintain Software:** Apply security updates and review service configurations regularly.
+
+## 📚 Skills Demonstrated
+
+* Network service enumeration
+* FTP access-control assessment
+* SSH authentication security
+* Linux permission analysis
+* Sudo configuration review
+* Privilege-escalation risk identification
+* Security findings and remediation documentation
+
+## 📄 Detailed Report
+
+The complete penetration testing report can be added to this directory:
+
+`TryHackMe-Simple-CTF-Penetration-Testing-Report.pdf`
+
+**Note:** Upload the PDF using this exact filename for the link below to work.
+
+[**View the Full Penetration Testing Report (PDF)**](./TryHackMe-Simple-CTF-Penetration-Testing-Report.pdf)
+
+## ✅ Conclusion
+
+The Simple CTF lab demonstrates how exposed services, accessible information, weak authentication, and excessive sudo permissions can combine to create serious security risks.
+
+This practical strengthened my understanding of network enumeration, Linux permissions, authentication security, privilege-escalation analysis, and security documentation.
+
+The key lesson is that secure configuration, strong authentication, and least-privilege access controls are essential for protecting Linux systems.
+
+## 👨‍💻 Author
+
+**Sunil Vaishnav**
+Cybersecurity Student
+
+**Areas of Learning**
+
+* Cybersecurity
+* Penetration Testing
+* Linux Security
+* Network Security
+* AWS Cloud Security
+
+---
+
+*This project is intended for educational purposes and documents an authorized training lab. No credentials or challenge flags are intentionally disclosed.*
+
