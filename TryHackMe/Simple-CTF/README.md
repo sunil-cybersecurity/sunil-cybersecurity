@@ -14,7 +14,7 @@ A beginner-level penetration testing assessment completed in the authorized **Tr
 | Assessment Type         | CTF / Penetration Testing Lab                                                       |
 | Target Operating System | Linux                                                                               |
 | Primary Focus           | Service Enumeration and Privilege Escalation                                        |
-| Report                  | [Penetration Testing Report](./TryHackMe-Simple-CTF-Penetration-Testing-Report.pdf) |
+| Report                  | (./TryHackMe%20%E2%80%93%20Simple%20CTF%20Penetration%20Testing%20Report.pdf)       |
 
 ## 🎯 Objectives
 
@@ -173,7 +173,8 @@ The complete penetration testing report can be added to this directory:
 
 **Note:** Upload the PDF using this exact filename for the link below to work.
 
-[**View the Full Penetration Testing Report (PDF)**](./TryHackMe-Simple-CTF-Penetration-Testing-Report.pdf)
+ [📄 View Full Penetration Testing Report](./TryHackMe%20%E2%80%93%20Simple%20CTF%20Penetration%20Testing%20Report.pdf)
+
 
 ## ✅ Conclusion
 
